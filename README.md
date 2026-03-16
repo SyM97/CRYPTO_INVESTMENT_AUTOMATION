@@ -7,10 +7,13 @@ The system detects payment confirmation emails, extracts transaction data and lo
 # WORKFLOW
 
 Gmail (transaction email)
+----------------
       ↓
 Make automation
+----------------
       ↓
 Regex parsing
+----------------
       ↓
 Notion database
 
