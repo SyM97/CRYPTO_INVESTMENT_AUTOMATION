@@ -14,10 +14,9 @@ Regex parsing
       ↓
 Notion database
 
-
-
-
-
+-----
+-----
+-----
 
 ![alt text](images/Workflow.png)
 
